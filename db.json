@@ -13,5 +13,9 @@
         "manage",
         "manager",
         "info",
+        "crm",
+        "prod",
+        "dev",
+        "developer"
     ]
 }
