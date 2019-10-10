@@ -16,6 +16,8 @@
         "crm",
         "prod",
         "dev",
-        "developer"
+        "developer",
+        "restricted",
+        "b2b"
     ]
 }
