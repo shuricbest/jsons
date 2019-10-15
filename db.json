@@ -18,6 +18,8 @@
         "dev",
         "developer",
         "restricted",
-        "b2b"
+        "b2b",
+        "agreements",
+        "docs"
     ]
 }
