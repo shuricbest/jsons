@@ -1,7 +1,7 @@
 {
     "domains":[
         "api",
-        "vianor",
+        "agent",
         "test",
         "beta",
         "nazva",
@@ -14,12 +14,16 @@
         "manager",
         "info",
         "crm",
+        "crmnew",
+        "crmprod",
         "prod",
         "dev",
         "developer",
         "restricted",
         "b2b",
         "agreements",
-        "docs"
+        "docs",
+        "insur",
+        "online"
     ]
 }
